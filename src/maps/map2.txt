@@ -1,0 +1,122 @@
+11 8 images/mapSpecific/roomFloorMap2.png images/mapSpecific/verticalRoomSeparatorMap2.png images/mapSpecific/horizontalRoomSeparatorMap2.png
+TILE 2 0      ; Row 0
+
+TILE 3 0
+
+TILE 4 0
+
+TILE 5 0
+
+TILE 10 0
+PLAQUE SCOTT images/plaque.png
+TILE 2 1      ; Row 1
+
+TILE 3 1
+MAGIC_BOX BOX images/magicBox.png maps/map5.txt 3 5
+MONSTER SLIME images/monsters/slime.png
+TILE 4 1
+
+TILE 5 1
+PLAQUE MAX images/plaque.png
+TILE 10 1
+MONSTER SLIME images/monsters/slime.png
+TILE 2 2      ; Row 2
+
+TILE 3 2
+MONSTER SLIME images/monsters/slime.png
+TILE 4 2
+
+TILE 5 2
+WEAPON SWORD images/weapon.png
+TILE 6 2
+
+TILE 7 2
+MONSTER SLIME images/monsters/slime.png
+TILE 9 2
+
+TILE 10 2
+
+TILE 2 3     ; Row 3
+
+TILE 3 3
+WEAPON SWORD images/weapon.png
+TILE 5 3
+
+TILE 6 3
+MONSTER SLIME images/monsters/slime.png
+TILE 7 3
+
+TILE 9 3
+
+TILE 10 3
+
+TILE 0 4   ; Row 4
+
+TILE 1 4
+
+TILE 2 4
+
+TILE 3 4
+WEAPON SWORD images/weapon.png
+ARMOR ARMOR images/armor.png
+TILE 5 4
+
+TILE 6 4
+
+TILE 7 4
+MONSTER SLIME images/monsters/slime.png
+TILE 8 4
+
+TILE 9 4
+MAGIC_BOX BOX images/magicBox.png maps/map1.txt 1 1
+TILE 10 4
+
+TILE 0 5    ; Row 5
+CRYSTAL CRYSTAL images/crystal2.png
+ARMOR ARMOR images/armor.png
+MONSTER SLIME images/monsters/slime.png
+MONSTER SLIME images/monsters/slime.png
+MONSTER SLIME images/monsters/slime.png
+TILE 1 5
+
+TILE 2 5
+MONSTER SLIME images/monsters/slime.png
+TILE 3 5
+
+TILE 7 5
+MONSTER SLIME images/monsters/slime.png
+TILE 8 5
+PLAQUE STEVE images/plaque.png
+TILE 9 5
+
+TILE 10 5
+FOOD CARROT images/carrot.png
+FOOD CARROT images/carrot.png
+TILE 0 6    ; Row 6
+
+TILE 1 6
+KEY KEY images/key.png
+MONSTER SLIME images/monsters/slime.png
+TILE 2 6
+PLAQUE SWISS images/plaque.png
+WEAPON SWORD images/weapon.png
+FOOD CARROT images/carrot.png
+TILE 3 6
+
+TILE 7 6
+
+TILE 9 6
+
+TILE 10 6
+
+TILE 0 7    ; Row 7
+
+TILE 1 7
+
+TILE 2 7
+
+TILE 3 7
+
+TILE 7 7
+MAGIC_BOX BOX images/magicBox.png maps/map4.txt 5 4
+TILE 10 7

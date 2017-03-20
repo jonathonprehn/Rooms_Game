@@ -1,0 +1,113 @@
+7 8 images/mapSpecific/roomFloorMap1.png images/mapSpecific/verticalRoomSeparatorMap1.png images/mapSpecific/horizontalRoomSeparatorMap1.png
+TILE 0 0       ; Row 0
+WEAPON SWORD images/weapon.png
+ARMOR ARMOR images/armor.png
+TILE 1 0
+
+TILE 2 0
+
+TILE 3 0
+KEY KEY images/key.png
+WEAPON SWORD images/weapon.png
+TILE 4 0
+
+TILE 5 0
+WEAPON SWORD images/weapon.png
+TILE 6 0
+WEAPON SWORD images/weapon.png
+TILE 0 1       ; Row 1
+
+TILE 1 1
+MAGIC_BOX BOX images/magicBox.png maps/map2.txt 9 4
+MONSTER SLIME images/monsters/slime.png
+TILE 2 1
+
+TILE 3 1
+
+TILE 4 1
+
+TILE 5 1
+MAGIC_BOX BOX images/magicBox.png maps/map7.txt 0 0
+TILE 6 1
+CRYSTAL CRYSTAL images/crystal.png
+MONSTER SLIME images/monsters/slime.png
+MONSTER SLIME images/monsters/slime.png
+WEAPON SWORD images/weapon.png
+TILE 0 2       ; Row 2
+PLAQUE FISH images/plaque.png
+TILE 1 2
+
+TILE 2 2
+
+TILE 3 2
+
+TILE 4 2
+MONSTER SLIME images/monsters/slime.png
+TILE 5 2
+
+TILE 6 2
+
+TILE 0 3       ; Row 3
+
+TILE 1 3
+
+TILE 2 3
+MONSTER SLIME images/monsters/slime.png
+TILE 3 3
+PLAYER
+WEAPON SWORD images/weapon.png
+ARMOR ARMOR images/armor.png
+FOOD CARROT images/carrot.png
+TILE 4 3
+
+TILE 5 3
+
+TILE 6 3
+MONSTER SLIME images/monsters/slime.png
+WEAPON SWORD images/weapon.png
+TILE 0 4       ; Row 4
+WEAPON SWORD images/weapon.png
+TILE 1 4
+KEY KEY images/key.png
+ARMOR ARMOR images/armor.png
+ARMOR ARMOR images/armor.png
+TILE 2 4
+
+TILE 3 4
+
+TILE 4 4
+ARMOR ARMOR images/armor.png
+TILE 5 4
+PLAQUE KATHY images/plaque.png
+WEAPON SWORD images/weapon.png
+TILE 6 4
+KEY KEY images/key.png
+ARMOR ARMOR images/armor.png
+TILE 0 5       ; Row 5
+
+TILE 1 5
+MONSTER SLIME images/monsters/slime.png
+FOOD CARROT images/carrot.png
+TILE 2 5
+PLAQUE AARON images/plaque.png
+WEAPON SWORD images/weapon.png
+TILE 3 5
+
+TILE 0 6       ; Row 6
+
+TILE 1 6
+
+TILE 2 6
+
+TILE 3 6
+MAGIC_BOX BOX images/magicBox.png maps/map6.txt 6 4
+TILE 0 7       ; Row 7
+
+TILE 1 7
+KEY KEY images/key.png
+ARMOR ARMOR images/armor.png
+MONSTER SLIME images/monsters/slime.png
+TILE 2 7
+
+TILE 3 7
+WEAPON SWORD images/weapon.png

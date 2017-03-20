@@ -1,0 +1,65 @@
+6 6 images/mapSpecific/roomFloorMap5.png images/mapSpecific/verticalRoomSeparatorMap5.png images/mapSpecific/horizontalRoomSeparatorMap5.png
+TILE 0 0
+MAGIC_BOX BOX images/magicBox.png maps/map7.txt 4 1
+TILE 1 0
+
+TILE 2 0
+
+TILE 3 0
+
+TILE 4 0
+
+TILE 5 0
+KEY KEY images/key.png
+WEAPON SWORD images/weapon.png
+MONSTER SLIME images/monsters/slime.png
+TILE 0 1
+WEAPON SWORD images/weapon.png
+TILE 1 1
+ARMOR ARMOR images/armor.png
+ARMOR ARMOR images/armor.png
+FOOD CARROT images/carrot.png
+TILE 5 1
+MONSTER SLIME images/monsters/slime.png
+TILE 0 2
+PLAQUE KING images/plaque.png
+WEAPON SWORD images/weapon.png
+TILE 1 2
+MONSTER SLIME images/monsters/slime.png
+TILE 2 2
+CRYSTAL CRYSTAL images/crystal5.png
+MONSTER SLIME images/monsters/slime.png
+MONSTER SLIME images/monsters/slime.png
+TILE 3 2
+MONSTER SLIME images/monsters/slime.png
+TILE 4 2
+
+TILE 5 2
+
+TILE 0 3
+WEAPON SWORD images/weapon.png
+TILE 3 3
+ARMOR ARMOR images/armor.png
+ARMOR ARMOR images/armor.png
+TILE 5 3
+WEAPON SWORD images/weapon.png
+WEAPON SWORD images/weapon.png
+PLAQUE QUEEN images/plaque.png
+TILE 0 4
+KEY KEY images/key.png
+TILE 3 4
+
+TILE 5 4
+
+TILE 0 5
+WEAPON SWORD images/weapon.png
+TILE 1 5
+PLAQUE STICK images/plaque.png
+TILE 2 5
+
+TILE 3 5
+MAGIC_BOX BOX images/magicBox.png maps/map2.txt 3 1
+TILE 4 5
+
+TILE 5 5
+FOOD CARROT images/carrot.png
